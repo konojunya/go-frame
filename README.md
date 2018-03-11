@@ -15,7 +15,7 @@ $ go get -d github.com/konojunya/go-frame
 
 ## Usage
 
-```
+```go
 package main
 
 import (
