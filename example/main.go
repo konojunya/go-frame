@@ -4,6 +4,7 @@ import (
 	frame "github.com/konojunya/go-frame"
 )
 
+// User User model
 type User struct {
 	Name string `frame:"Customer Name"`
 	Age  int    `frame:"Age"`
